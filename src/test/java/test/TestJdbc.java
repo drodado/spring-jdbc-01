@@ -32,6 +32,8 @@ public class TestJdbc {
 		assertEquals(2, noPersonas);
 
 		logger.info("Fin del test Jdbc");
+		
+		logger.info("Nueva linea");
 
 	}
 }
