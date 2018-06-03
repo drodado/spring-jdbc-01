@@ -34,6 +34,8 @@ public class TestJdbc {
 		logger.info("Fin del test Jdbc");
 		
 		logger.info("Nueva linea");
+		
+		logger.info("Esta nueva línea debe subirse a la rama brach_01.");
 
 	}
 }
